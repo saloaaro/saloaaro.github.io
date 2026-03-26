@@ -49,7 +49,7 @@ I enjoy team sports and collaboration, and I am eager to gain hands-on experienc
 | Project | Description | Link |
 |---------|-------------|------|
 | **Todo App** | A simple, interactive to-do application built with JavaScript, HTML, and CSS. | [View Project](https://saloaaro.github.io/todo-app/) |
-| **Budget Tracker (Upcoming)** | Personal budget app to track income, expenses, and visualize monthly spending. | Coming Soon |
+| **New coming** | 
 
 ---
 
