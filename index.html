@@ -9,9 +9,20 @@
     body {
       margin: 0;
       font-family: 'Poppins', sans-serif;
-      background: #020617;
+      background: url('tausta.jpg') no-repeat center center fixed;
+      background-size: cover;
       color: #e2e8f0;
       scroll-behavior: smooth;
+      position: relative;
+    }
+
+    /* Overlay tummentamaan taustaa ja tekemään tekstistä luettavaa */
+    body::before {
+      content: "";
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(2, 6, 23, 0.7);
+      z-index: -1;
     }
 
     header {
@@ -249,7 +260,6 @@
           <p><a href="https://github.com/saloaaro/todo-app" target="_blank" style="color:#38bdf8;">View Code on GitHub</a></p>
         </div>
 
-        <!-- Seuraava projekti-idea -->
         <div class="card">
           <h3>Budget Tracker (Upcoming)</h3>
           <p>Personal budget app to track income, expenses, and visualize monthly spending. Built with JavaScript and charts.</p>
@@ -263,8 +273,5 @@
   <footer>
     © 2026 Aaro Salo
   </footer>
-</body>
-</html>
-
 </body>
 </html>
