@@ -66,9 +66,3 @@ I enjoy team sports and collaboration, and I am eager to gain hands-on experienc
 
 You can **view the portfolio** directly online: [https://saloaaro.github.io/](https://saloaaro.github.io/)  
 
-To **edit locally**:
-
-```bash
-git clone https://github.com/saloaaro/portfolio.git
-cd portfolio
-# Open index.html in a browser
