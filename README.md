@@ -1,4 +1,4 @@
-# Aaro Salo | Portfolio 🌐
+# Aaro Salo | Portfolio 
 
 Welcome to my personal portfolio website!  
 This site showcases my skills, education, work experience, and personal projects.
@@ -7,19 +7,19 @@ Live demo: [https://saloaaro.github.io/](https://saloaaro.github.io/)
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a **28-year-old third-year Computer Science student** with a passion for software development.  
 I am meticulous, creative, and calm, with strong perseverance in problem-solving.  
 I enjoy team sports and collaboration, and I am eager to gain hands-on experience in software development.
 
-- 📞 +358 40 731 1387  
-- 📧 salo.aaro@outlook.com  
+- +358 40 731 1387  
+- salo.aaro@outlook.com  
 - [GitHub](https://github.com/saloaaro)  
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 - **Meira Oy (2018–2020)** – Warehouse Worker  
 - **Barona Logistics Oy (2016–2018)** – Warehouse Worker  
@@ -27,14 +27,14 @@ I enjoy team sports and collaboration, and I am eager to gain hands-on experienc
 
 ---
 
-## 🎓 Education
+## Education
 
 - **University of Helsinki** – Computer Science (Bachelor’s & Master’s)  
 - **Helsinki Language High School** – High School Graduate  
 
 ---
 
-## 🛠 Skills
+## Skills
 
 **Programming & Tools:** HTML, CSS, JavaScript, Python, Java, SQL, React, Node.js, Git, GitHub, Azure DevOps  
 
@@ -44,7 +44,7 @@ I enjoy team sports and collaboration, and I am eager to gain hands-on experienc
 
 ---
 
-## 📝 Projects
+## Projects
 
 | Project | Description | Link |
 |---------|-------------|------|
@@ -53,7 +53,7 @@ I enjoy team sports and collaboration, and I am eager to gain hands-on experienc
 
 ---
 
-## 💡 Features of the Portfolio
+## Features of the Portfolio
 
 - Modern **grid layout** for sections and projects  
 - Responsive design for desktop and mobile  
@@ -62,7 +62,7 @@ I enjoy team sports and collaboration, and I am eager to gain hands-on experienc
 
 ---
 
-## 📂 How to Use
+## How to Use
 
 You can **view the portfolio** directly online: [https://saloaaro.github.io/](https://saloaaro.github.io/)  
 
